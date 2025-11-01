@@ -1,6 +1,6 @@
 # Solving-Business-Problems-using-SAP-s-Generative-AI-Hub
 
-Learning outcome
+## Learning outcome
 After completing this learning journey,
 
 - You will discover how SAP Business AI streamlines processes, improves decisions, and drives scalable innovation.
